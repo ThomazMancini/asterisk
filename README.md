@@ -1,2 +1,2 @@
 # asterisk
-Esta é uma instensão do Asterisk 21 no linux Centos 7.
+Esta é uma extensão do Asterisk 21 no linux Centos 7.
